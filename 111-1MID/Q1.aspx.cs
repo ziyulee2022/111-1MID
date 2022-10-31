@@ -12,5 +12,12 @@ namespace _111_1MID {
         protected void Page_Load(object sender, EventArgs e) {
 
         }
+
+        protected System.Void TextBox1_TextChanged(System.Object sender, System.EventArgs e)
+        {
+           
+
+             
+        }
     }
 }
