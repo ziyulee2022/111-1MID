@@ -15,7 +15,7 @@ namespace _111_1MID {
 
         protected System.Void TextBox1_TextChanged(System.Object sender, System.EventArgs e)
         {
-           
+            1;
 
              
         }
